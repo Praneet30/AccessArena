@@ -72,7 +72,7 @@ Abstraction is used to hide the complex implementation details and show only the
 1. Ensure you have Java and MySQL installed on your system.
 2. Clone this repository to your local machine.
    ```sh
-   git clone 
+   git clone https://github.com/Praneet30/AccessArena
 3. Set up the MySQL database using the provided SQL scripts in the database folder.
 4. Open the project in your preferred Java IDE.
 5. Update the database connection details in the configuration files.
