@@ -76,4 +76,8 @@ Abstraction is used to hide the complex implementation details and show only the
 3. Set up the MySQL database using the provided SQL scripts in the database folder.
 4. Open the project in your preferred Java IDE.
 5. Update the database connection details in the configuration files.
+   
+### Contributing
+
+Contributions are welcome! Please fork this repository and submit a pull request for any enhancements or bug fixes.
 
